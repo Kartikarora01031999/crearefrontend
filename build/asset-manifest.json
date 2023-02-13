@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.808052d5.chunk.css",
-    "main.js": "/static/js/main.d266a62e.chunk.js",
-    "main.js.map": "/static/js/main.d266a62e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7a184a48.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7a184a48.js.map",
-    "static/css/2.2ac096ea.chunk.css": "/static/css/2.2ac096ea.chunk.css",
-    "static/js/2.51cfd29a.chunk.js": "/static/js/2.51cfd29a.chunk.js",
-    "static/js/2.51cfd29a.chunk.js.map": "/static/js/2.51cfd29a.chunk.js.map",
-    "static/js/3.02220e9d.chunk.js": "/static/js/3.02220e9d.chunk.js",
-    "static/js/3.02220e9d.chunk.js.map": "/static/js/3.02220e9d.chunk.js.map",
+    "main.css": "/static/css/main.575a5a9d.chunk.css",
+    "main.js": "/static/js/main.74fc2da1.chunk.js",
+    "main.js.map": "/static/js/main.74fc2da1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd86c5e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd86c5e7.js.map",
+    "static/css/2.a308f621.chunk.css": "/static/css/2.a308f621.chunk.css",
+    "static/js/2.8a52b3fe.chunk.js": "/static/js/2.8a52b3fe.chunk.js",
+    "static/js/2.8a52b3fe.chunk.js.map": "/static/js/2.8a52b3fe.chunk.js.map",
+    "static/js/3.3acd241d.chunk.js": "/static/js/3.3acd241d.chunk.js",
+    "static/js/3.3acd241d.chunk.js.map": "/static/js/3.3acd241d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.2ac096ea.chunk.css.map": "/static/css/2.2ac096ea.chunk.css.map",
-    "static/css/main.808052d5.chunk.css.map": "/static/css/main.808052d5.chunk.css.map",
-    "static/js/2.51cfd29a.chunk.js.LICENSE.txt": "/static/js/2.51cfd29a.chunk.js.LICENSE.txt",
+    "static/css/2.a308f621.chunk.css.map": "/static/css/2.a308f621.chunk.css.map",
+    "static/css/main.575a5a9d.chunk.css.map": "/static/css/main.575a5a9d.chunk.css.map",
+    "static/js/2.8a52b3fe.chunk.js.LICENSE.txt": "/static/js/2.8a52b3fe.chunk.js.LICENSE.txt",
     "static/media/1.7366680a.jpg": "/static/media/1.7366680a.jpg",
     "static/media/3.d790609d.png": "/static/media/3.d790609d.png",
     "static/media/index.css": "/static/media/Suave.01811e05.ttf",
@@ -45,10 +45,10 @@
     "static/media/womens.a405811e.jpg": "/static/media/womens.a405811e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a184a48.js",
-    "static/css/2.2ac096ea.chunk.css",
-    "static/js/2.51cfd29a.chunk.js",
-    "static/css/main.808052d5.chunk.css",
-    "static/js/main.d266a62e.chunk.js"
+    "static/js/runtime-main.cd86c5e7.js",
+    "static/css/2.a308f621.chunk.css",
+    "static/js/2.8a52b3fe.chunk.js",
+    "static/css/main.575a5a9d.chunk.css",
+    "static/js/main.74fc2da1.chunk.js"
   ]
 }
