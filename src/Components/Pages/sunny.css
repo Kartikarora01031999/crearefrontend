@@ -1,0 +1,58 @@
+.parent-con {
+  max-height: 35rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-auto-rows: auto;
+  padding: 20px;
+  grid-gap: 10px;
+  overflow-y: auto;
+}
+.parent-con-1 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  top: 0;
+}
+.parent-con-2 {
+  max-height: 35rem;
+  display:grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 200px;
+  grid-gap: 10px;
+}
+.parent-con-3 {
+  padding: 20px;
+}
+
+nav{
+  /* background-image: url("../../Images/backgourd-image.jpg"); */
+  background-color: #49AD90;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.nvMenu1{
+  background-image:url("../../Images/footer.png");
+}
+.nvMenu2{
+  background-image:url("../../Images/backgourd-image.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #65541D;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: #65541D;
+}
+
+.nev-icon li a {
+  color: #65541D;
+}
+
+.pat{
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
